@@ -1,0 +1,17 @@
+.main {
+  margin-bottom: 100px;
+}
+
+.main-top {
+  margin-top: 100px;
+}
+
+@media (width >= 1200px) {
+  .card:hover {
+    transform: scale(1.07);
+  }
+}
+
+.card-text:first-of-type {
+  margin-bottom: 0;
+}
